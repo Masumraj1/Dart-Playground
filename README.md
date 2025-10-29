@@ -1,16 +1,23 @@
-# dart_playground
+# 🧠 Dart Playground
 
-A new Flutter project.
+**Learn Dart the fun way!**  
+এই রিপোতে তুমি ছোট ছোট Dart concept পাবা — প্রতিটা ফাইলে আছে:
+- 📄 Short example code
+- 💡 Explained in simple Bangla
+- 🧩 Real-world analogy
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📚 Topics Covered
+✅ Variables, Data Types, Operators  
+✅ Functions & Parameters  
+✅ List, Map, Set  
+✅ Null Safety  
+✅ OOP (Classes, Inheritance, Mixins)  
+✅ Async/Await, Future, Stream
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+```bash
+dart run basics/variables.dart
